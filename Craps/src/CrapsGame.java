@@ -53,8 +53,7 @@ public class CrapsGame
 		
 		else 
 		{
-			point = -1;
-			result = 0;
+			result = -1;
 		}
 	}
 	
